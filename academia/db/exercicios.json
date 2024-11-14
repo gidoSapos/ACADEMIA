@@ -1,0 +1,85 @@
+[
+    {
+        "nome": "Supino reto",
+        "musculos": [
+            "Peitoral",
+            "Tr\u00edceps",
+            "Deltoide anterior"
+        ],
+        "carga": [
+            "60",
+            "70",
+            "80"
+        ],
+        "serie": 4,
+        "repeticoes": 12
+    },
+    {
+        "nome": "Agachamento",
+        "musculos": [
+            "Quadr\u00edceps",
+            "Gl\u00fateos",
+            "Isquiotibiais"
+        ],
+        "carga": [
+            "80",
+            "100",
+            "120"
+        ],
+        "serie": 4,
+        "repeticoes": 10
+    },
+    {
+        "nome": "Puxada na frente",
+        "musculos": [
+            "Dorsal",
+            "B\u00edceps",
+            "Trap\u00e9zio"
+        ],
+        "carga": [
+            "40",
+            "50",
+            "60"
+        ],
+        "serie": 4,
+        "repeticoes": 12
+    },
+    {
+        "nome": "Crossover",
+        "musculos": [
+            "Peitoral",
+            "Deltoide anterior"
+        ],
+        "carga": [
+            "10",
+            "15",
+            "20"
+        ],
+        "serie": 3,
+        "repeticoes": 15
+    },
+    {
+        "nome": "Rosca direta",
+        "musculos": [
+            "B\u00edceps"
+        ],
+        "carga": [
+            "15",
+            "20",
+            "25"
+        ],
+        "serie": 4,
+        "repeticoes": 10
+    },
+    {
+        "nome": "\u00e7a~\u00e7a\u00e7\u00e3\u00e7s\u00e7a\u00e7s",
+        "musculos": [
+            "\u00e7\u00e3\u00e7a~\u00e7s~\u00e7\u00e3"
+        ],
+        "carga": [
+            "]~\u00b4~]\u00b4~"
+        ],
+        "serie": 2,
+        "repeticoes": 4
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "nome": "Treino de Peito e Tr\u00edceps",
+        "exercicios": [
+            "Supino reto",
+            "Crossover",
+            "Tr\u00edceps pulley",
+            "Mergulho"
+        ]
+    },
+    {
+        "nome": "Treino de Pernas",
+        "exercicios": [
+            "Agachamento",
+            "Leg press",
+            "Cadeira extensora",
+            "Cadeira flexora",
+            "Panturrilha em p\u00e9"
+        ]
+    },
+    {
+        "nome": "Treino de Costas e B\u00edceps",
+        "exercicios": [
+            "Puxada na frente",
+            "Remada unilateral",
+            "Rosca direta",
+            "Rosca alternada",
+            "Pullover"
+        ]
+    },
+    {
+        "nome": "Treino de Ombros e Trap\u00e9zio",
+        "exercicios": [
+            "Desenvolvimento com barra",
+            "Eleva\u00e7\u00e3o lateral",
+            "Eleva\u00e7\u00e3o frontal",
+            "Encolhimento de ombros",
+            "Crucifixo invertido"
+        ]
+    },
+    {
+        "nome": "Treino de Abd\u00f4men",
+        "exercicios": [
+            "Abdominal reto",
+            "Abdominal obl\u00edquo",
+            "Prancha",
+            "Eleva\u00e7\u00e3o de pernas"
+        ]
+    },
+    {
+        "nome": "\u00e7~\u00e7a\u00e7\u00e3\u00e7\u00e1\u00e7\u00e3",
+        "exercicios": [
+            "\u00e7\u00e3\u00e7\u00e1\u00e7\u00e3\u00e7a"
+        ]
+    },
+    {
+        "nome": "a2",
+        "exercicios": [
+            "\u00e3\u00e7~s\u00e7\u00e3\u00e7s\u00e7"
+        ]
+    }
+]
